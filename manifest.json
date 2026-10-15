@@ -2,7 +2,7 @@
   "id": "./",
   "name": "Neon TV",
   "short_name": "Neon TV",
-  "description": "Neon TV interactive design preview with fictional demo content.",
+  "description": "Movies, series and live TV with your Neon TV subscription.",
   "lang": "en",
   "dir": "ltr",
   "start_url": "./",
